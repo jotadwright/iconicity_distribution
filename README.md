@@ -1,4 +1,4 @@
-# iconicity_embeddings
+# Examining Iconicity Information in Semantic and Phonetic Word Embeddings
 Research on the presence of iconic information in phonetic and semantic word embeddings.
 
 Uses Winter et al. (2023) iconicity ratings (https://github.com/bodowinter/iconicity_ratings), Fasttext semantic embeddings (https://fasttext.cc/docs/en/english-vectors.html) and Panphon phonetic embeddings (https://github.com/dmort27/panphon)
